@@ -19,3 +19,7 @@
   .disc-btn {
     background-color: purple;
   }
+
+  .carousel {
+    max-height: 500px;
+  }
